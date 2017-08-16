@@ -2,10 +2,10 @@
 A repo to test-drive design+code collaboration with Sketch where the core .sketch data is pushed/pulled to/from the repo only.
 
 # Initial Setup
-1. git clone https://github.com/zweiland/hg-dls-collab.git
-2. cd hg-dls-collab
-3. sh download.sh
-4. open .
+1. `git clone https://github.com/zweiland/hg-dls-collab.git`
+2. `cd hg-dls-collab`
+3. `sh download.sh`
+4. `open .`
 5. in Finder open design-system-hostgator.sketch
 
 # Set up your own design repo
